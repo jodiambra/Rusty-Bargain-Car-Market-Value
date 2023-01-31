@@ -4,6 +4,8 @@
     Pandas
     Numpy
     Plotly Express
+    EDA
+    Missing Values
     Encoding Categorical Features
     StandardScaler
     Cross Validation

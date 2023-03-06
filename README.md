@@ -1,5 +1,7 @@
 # Rusty-Bargain
 
+![what-is-fair-market-value_736993437](https://user-images.githubusercontent.com/115895428/223275106-11f3c2b5-56f3-41d0-b089-e0348cf88656.jpg)
+
 ## Skills Demonstrated
     Pandas
     Numpy
